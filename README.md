@@ -24,13 +24,7 @@
 
 ---
 
-### 🔎 À propos de moi
-- 🎨 Passionné par **UX/UI**, التصميم الجرافيكي، وتجارب استخدام مُتقنة.
-- 🤖 أستعمل **أدوات الذكاء الاصطناعي** لتحسين التصميمات وسرعة الإنتاج.
-- 📈 مهتم بـ **Crypto & Trading** ومعرفة الأسواق والتوجهات.
-- 🧭 قيم العمل: التنظيم، الدقة، احترام الإجراءات، وروح التعاون.
 
----
 
 ### 🛠️ Outils & Technologies
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
