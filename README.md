@@ -56,6 +56,4 @@
 - **LinkedIn :** https://www.linkedin.com/in/anoir-akaroiz-786144360  
 - **Location :** Oujda, Maroc
 
-<p align="center">
-  Toujours ouvert للتعاون أو فرص التدريب والعمل. إذا عجبك شي حاجة من الشغل ديالي، تواصل معايا!
-</p>
+
